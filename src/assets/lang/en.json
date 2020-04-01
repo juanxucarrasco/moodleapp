@@ -1908,7 +1908,7 @@
     "core.sending": "Sending",
     "core.serverconnection": "Error connecting to the server",
     "core.settings.about": "About",
-    "core.settings.appsettings": "App settings",
+    "core.settings.appsettings": "Ajustes",
     "core.settings.appversion": "App version",
     "core.settings.cannotsyncoffline": "Cannot synchronise offline.",
     "core.settings.cannotsyncwithoutwifi": "Cannot synchronise because the current settings only allow to synchronise when connected to Wi-Fi. Please connect to a Wi-Fi network.",
